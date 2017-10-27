@@ -1,0 +1,63 @@
+body {
+	background-image: url("../images/pattern.jpg");
+}
+
+#text {
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	line-height: 30px;
+}
+
+#targetScore,
+#chosenScore,
+#winCounter,
+#loseCounter,
+#totalScore
+ {
+	background-color: red;
+	text-align: center;
+	font-size: 20px;
+}
+
+#gameRule {
+	text-align: center;
+}
+
+#title {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 10px;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#targetScore {
+	margin:10px;
+}
+#image1,
+#image2,
+#image3,
+#image4 {
+	padding: 10px;
+}
+#gameRule {
+	background-color: orange;
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 30px;
+}
+
+#images {
+	margin-bottom: 30px;
+}
+
+#targetScore {
+	font-size: 20px;
+}
+
+#totalScore,
+#clickScore
+ {
+	font-size: 20px;
+}
